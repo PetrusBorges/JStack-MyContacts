@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/105453766/191643381-621a8f04-b13e-41c4-b458-31e0f8b1be43.png)
 
-# MyContacts 🤘
+# MyContacts 🤘r
 
 Repositório criado exclusivamente para treinar boas práticas em REACT + NPM/NPX + REACT STYLED COMPONENTS + CONSUMO DE API + INTEGRAÇÃO COM BACKEND adquiridas no curso JStack.
 
