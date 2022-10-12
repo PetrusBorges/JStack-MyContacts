@@ -4,7 +4,7 @@
 
 Repositório criado exclusivamente para treinar boas práticas em REACT + NPM/NPX + REACT STYLED COMPONENTS + CONSUMO DE API + INTEGRAÇÃO COM BACKEND adquiridas no curso JStack.
 
-https://user-images.githubusercontent.com/105453766/195246718-0fa268b6-b9a0-46ee-aeda-2203aa9d0484.mp4
+https://user-images.githubusercontent.com/105453766/195246776-a653fb09-818e-4307-a905-23a91f4fee89.mp4
 
 ## 📋 Projeto
 
